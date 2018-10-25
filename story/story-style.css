@@ -1,0 +1,20 @@
+body{
+  background-color:lightblue;
+}
+
+h1{
+  color:red;
+  text-align:center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h2{
+  color:darkblue;
+ font-family: 'Playfair Display', serif;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+  font-family: 'Bitter', serif;
+}
