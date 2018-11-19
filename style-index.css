@@ -1,0 +1,17 @@
+
+h1{
+  color:red;
+  text-align:center;
+  font-family: 'Playfair Display', serif;
+}
+
+h2{
+  color:darkblue;
+ font-family: 'Playfair Display', serif;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+  font-family: 'Bitter', serif;
+}
