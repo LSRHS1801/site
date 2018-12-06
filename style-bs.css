@@ -1,15 +1,19 @@
 h5{
   font-family: 'Ultra', serif;
+  color:white;
 }
 .new{
   font-family: 'Ultra', serif;
 }
 body{
-  background-color:grey;
+  background-color:lightgrey;
 }
 .color{
-  background-color:lightgrey;
+  background-color:grey;
 }
 .padding{
   padding-bottom: 100px
+}
+.spacing{
+  text-align: center;
 }
